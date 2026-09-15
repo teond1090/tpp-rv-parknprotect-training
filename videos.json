@@ -1,0 +1,40 @@
+{
+  "note": "Source renders for this course \u2014 the high-energy take, same avatar, voice and delivery as TPP Secure. fetch-videos.yml pulls these into media/ on demand, because the authoring sandbox cannot reach HeyGen's file servers. Durations are filled in once each render completes.",
+  "files": [
+    {
+      "name": "part-1.webm",
+      "section": "Welcome + Why This Program Exists",
+      "video_id": "89e2a1f368feec96cd75bd77a4ba30dc",
+      "seconds": null,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/89e2a1f368feec96cd75bd77a4ba30dc.webm"
+    },
+    {
+      "name": "part-2.webm",
+      "section": "Plans & Presenting",
+      "video_id": "0a86c21967445358e0076ed75d24a4e2",
+      "seconds": null,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/0a86c21967445358e0076ed75d24a4e2.webm"
+    },
+    {
+      "name": "part-3.webm",
+      "section": "Coverage & Exclusions",
+      "video_id": "38fcdf0821165d9bb6e4f0307eb07209",
+      "seconds": null,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/38fcdf0821165d9bb6e4f0307eb07209.webm"
+    },
+    {
+      "name": "part-4.webm",
+      "section": "Filing a Claim",
+      "video_id": "caf16e9701442fabd06382fec34ac202",
+      "seconds": null,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/caf16e9701442fabd06382fec34ac202.webm"
+    },
+    {
+      "name": "part-5.webm",
+      "section": "Opt-Out Process + Close",
+      "video_id": "c0374d07cb936b4a0b5fc74bc5cd4056",
+      "seconds": null,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/c0374d07cb936b4a0b5fc74bc5cd4056.webm"
+    }
+  ]
+}
