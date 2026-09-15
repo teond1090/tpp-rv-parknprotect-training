@@ -1,32 +1,119 @@
 {
   "slide_dir": "/home/user/tpp-onboarding-portal/slides/rv",
   "segments": [
-    { "name": "part-1", "video": "media/part-1.webm", "slides": [
-      { "at": 0,    "img": "01-title.png" },
-      { "at": 0.30, "img": "03-covers.png" },
-      { "at": 0.52, "img": "02-why.png" } ] },
-
-    { "name": "part-2", "video": "media/part-2.webm", "slides": [
-      { "at": 0,    "img": "04-pricing.png" },
-      { "at": 0.42, "img": "05-present.png" } ] },
-
-    { "name": "part-3", "video": "media/part-3.webm", "slides": [
-      { "at": 0,    "img": "06-covered.png" },
-      { "at": 0.34, "img": "07-not-covered.png" },
-      { "at": 0.62, "img": "08-burglary.png" } ] },
-
-    { "name": "part-4", "video": "media/part-4.webm", "slides": [
-      { "at": 0,    "img": "09-file-claim.png" },
-      { "at": 0.32, "img": "11-communication.png" },
-      { "at": 0.60, "img": "12-portal-access.png" },
-      { "at": 0.78, "img": "10-claims-team.png" } ] },
-
-    { "name": "part-5", "video": "media/part-5.webm", "slides": [
-      { "at": 0,    "img": "13-optout.png" },
-      { "at": 0.24, "img": "14-three-details.png" },
-      { "at": 0.55, "img": "15-expiry.png" },
-      { "at": 0.70, "img": "16-billing.png" },
-      { "at": 0.84, "img": "17-exclusion.png" },
-      { "at": 0.95, "img": "18-contact.png" } ] }
+    {
+      "name": "part-1",
+      "video": "media/part-1.webm",
+      "slides": [
+        {
+          "at": 0,
+          "img": "01-title.png"
+        },
+        {
+          "at": 0.14,
+          "img": "02-why.png"
+        },
+        {
+          "at": 0.28,
+          "img": "03-covers.png"
+        },
+        {
+          "at": 0.43,
+          "img": "02-why.png"
+        },
+        {
+          "at": 0.67,
+          "img": "03-covers.png"
+        }
+      ]
+    },
+    {
+      "name": "part-2",
+      "video": "media/part-2.webm",
+      "slides": [
+        {
+          "at": 0,
+          "img": "04-pricing.png"
+        },
+        {
+          "at": 0.3,
+          "img": "05-present.png"
+        }
+      ]
+    },
+    {
+      "name": "part-3",
+      "video": "media/part-3.webm",
+      "slides": [
+        {
+          "at": 0,
+          "img": "06-covered.png"
+        },
+        {
+          "at": 0.34,
+          "img": "07-not-covered.png"
+        },
+        {
+          "at": 0.55,
+          "img": "08-burglary.png"
+        }
+      ]
+    },
+    {
+      "name": "part-4",
+      "video": "media/part-4.webm",
+      "slides": [
+        {
+          "at": 0,
+          "img": "09-file-claim.png"
+        },
+        {
+          "at": 0.31,
+          "img": "11-communication.png"
+        },
+        {
+          "at": 0.66,
+          "img": "12-portal-access.png"
+        },
+        {
+          "at": 0.81,
+          "img": "10-claims-team.png"
+        }
+      ]
+    },
+    {
+      "name": "part-5",
+      "video": "media/part-5.webm",
+      "slides": [
+        {
+          "at": 0,
+          "img": "13-optout.png"
+        },
+        {
+          "at": 0.24,
+          "img": "14-three-details.png"
+        },
+        {
+          "at": 0.36,
+          "img": "13-optout.png"
+        },
+        {
+          "at": 0.51,
+          "img": "15-expiry.png"
+        },
+        {
+          "at": 0.62,
+          "img": "16-billing.png"
+        },
+        {
+          "at": 0.76,
+          "img": "17-exclusion.png"
+        },
+        {
+          "at": 0.88,
+          "img": "18-contact.png"
+        }
+      ]
+    }
   ]
 }
