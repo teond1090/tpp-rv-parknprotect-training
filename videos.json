@@ -5,21 +5,21 @@
       "name": "part-1.webm",
       "section": "Welcome + Why This Program Exists",
       "video_id": "1d5bcf838b0bb1ada5f4080cd0e4f4fb",
-      "seconds": null,
+      "seconds": 102.557,
       "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/1d5bcf838b0bb1ada5f4080cd0e4f4fb.webm"
     },
     {
       "name": "part-2.webm",
       "section": "Plans & Presenting",
       "video_id": "23f3485ffe95d2615ea1cd03c2802601",
-      "seconds": null,
+      "seconds": 77.5837,
       "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/23f3485ffe95d2615ea1cd03c2802601.webm"
     },
     {
       "name": "part-3.webm",
       "section": "Coverage & Exclusions",
       "video_id": "4436f360575ca9b608e3ce30dfbd54a0",
-      "seconds": null,
+      "seconds": 95.9739,
       "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/4436f360575ca9b608e3ce30dfbd54a0.webm"
     },
     {
@@ -27,14 +27,16 @@
       "section": "Filing a Claim",
       "video_id": "e82ad8b4a04d78192c3533279d2ca1f2",
       "seconds": null,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/e82ad8b4a04d78192c3533279d2ca1f2.webm"
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/e82ad8b4a04d78192c3533279d2ca1f2.webm",
+      "status": "failed: AVATAR_IV_VIDEO_GENERATION_OUT_OF_CREDIT \u2014 needs a re-render once credits allow"
     },
     {
       "name": "part-5.webm",
       "section": "Opt-Out Process + Close",
       "video_id": "908adc52c9f216512d443323bf8ee824",
       "seconds": null,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/908adc52c9f216512d443323bf8ee824.webm"
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/908adc52c9f216512d443323bf8ee824.webm",
+      "status": "failed: AVATAR_IV_VIDEO_GENERATION_OUT_OF_CREDIT \u2014 needs a re-render once credits allow"
     }
   ]
 }
