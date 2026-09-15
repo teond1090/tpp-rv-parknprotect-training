@@ -25,7 +25,8 @@
           "at": 0.67,
           "img": "03-covers.png"
         }
-      ]
+      ],
+      "title": "Why This Program Exists"
     },
     {
       "name": "part-2",
@@ -39,7 +40,8 @@
           "at": 0.3,
           "img": "05-present.png"
         }
-      ]
+      ],
+      "title": "Plans & Presenting"
     },
     {
       "name": "part-3",
@@ -57,7 +59,8 @@
           "at": 0.55,
           "img": "08-burglary.png"
         }
-      ]
+      ],
+      "title": "Coverage & Exclusions"
     },
     {
       "name": "part-4",
@@ -79,7 +82,8 @@
           "at": 0.81,
           "img": "10-claims-team.png"
         }
-      ]
+      ],
+      "title": "Filing a Claim"
     },
     {
       "name": "part-5",
@@ -113,7 +117,11 @@
           "at": 0.88,
           "img": "18-contact.png"
         }
-      ]
+      ],
+      "title": "The Tenant Opt-Out Process"
     }
-  ]
+  ],
+  "course": "RV Park ‘n’ Protect",
+  "accent": "#14532d",
+  "navy": "#0c3b22"
 }
