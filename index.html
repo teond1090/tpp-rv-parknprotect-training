@@ -255,7 +255,7 @@
       </div>
     </div>
   </div>
-  <p class="hint" id="playerHint">You can pause, rewind and fast-forward freely. The video stops at five short knowledge checks — answer each one correctly to unlock the rest.</p>
+  <p class="hint" id="playerHint">You can pause, rewind and fast-forward freely. The video stops at six short knowledge checks — answer each one correctly to unlock the rest.</p>
 
   <div class="panel" id="optoutPanel">
     <h2>One more module</h2>
@@ -338,6 +338,20 @@ const QUIZZES = [
     {q:"A tenant says their auto deductible is about $1,000. What's the value of the $13 plan?",
      a:["It effectively pays that deductible for them when something happens","It replaces their auto insurance entirely","It lowers their auto insurance premium"], c:0,
      e:"That's the whole pitch: for about $13 a month, the plan covers $1,000 of damage — which is to say it pays their deductible so they don't have to."}
+  ]},
+  { at:0.29188, title:"The Addendum", q:[
+    {q:"A tenant takes the $1,500 plan. How much contents coverage do they have?",
+     a:["$750 \u2014 half the protection limit","$350","$1,500 \u2014 the same as the limit"], c:0,
+     e:"Contents coverage is half the protection limit, every time: $500 on a $1,000 plan, $750 on $1,500, $1,250 on $2,500."},
+    {q:"A tenant\u2019s RV is parked at a lake 300 miles away and items are stolen from inside it. Covered?",
+     a:["Yes \u2014 contents coverage applies on-site and off-site","No, only while it is in the space","Only if they told the facility it was leaving"], c:0,
+     e:"Contents coverage travels with the vehicle. Stolen items from inside the stored property are covered whether it is in your space or away from it \u2014 which auto policies almost never do."},
+    {q:"How much vehicle parts coverage comes with the $2,500 plan?",
+     a:["$1,250 \u2014 half the limit, and it applies off-site too","$500","None \u2014 parts are excluded"], c:0,
+     e:"Additional vehicle parts coverage is half the protection limit, the same as contents, and it also applies off-site. A catalytic converter taken while the tenant is away is covered up to that sublimit."},
+    {q:"What has to be written on the addendum for every vehicle kept in the space?",
+     a:["The licence plate number","Only the make and model","Nothing \u2014 the space number is enough"], c:0,
+     e:"Every vehicle and licence plate that will sit in the space goes on the addendum. That is what a claim is validated against, and it is the line most often left blank."}
   ]},
   { at:0.44827, title:"Coverage & Exclusions", q:[
     {q:"Which of these is NOT covered?",
@@ -661,7 +675,7 @@ quizContinue.onclick=()=>{
 /* ---------- opt-out module ---------- */
 if (OO) {
   document.getElementById('playerHint').textContent =
-    'You can pause, rewind and fast-forward freely. The video stops at five short knowledge checks, '
+    'You can pause, rewind and fast-forward freely. The video stops at six short knowledge checks, '
     + 'and one final module follows it — answer each one correctly to unlock your certificate.';
 }
 let ooDone = true;              /* opt-out is narrated in the video and checked by Knowledge Check 5 */
