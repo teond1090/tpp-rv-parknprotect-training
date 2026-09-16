@@ -1,5 +1,5 @@
 {
-  "note": "Source renders for this course \u2014 presenter-style delivery: deliberate gestures toward the slide, hands settling between points. fetch-videos.yml pulls these into media/ on demand. Durations are filled in as each render completes.",
+  "note": "Source renders for this course \u2014 presenter-style delivery: deliberate gestures toward the slide, hands settling between points. fetch-videos.yml pulls these into media/ on demand.",
   "files": [
     {
       "name": "part-1.webm",
@@ -26,14 +26,14 @@
       "name": "part-4.webm",
       "section": "Filing a Claim",
       "video_id": "63d780e9f99cebf95bb67d2e489dde41",
-      "seconds": null,
+      "seconds": 127.556,
       "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/63d780e9f99cebf95bb67d2e489dde41.webm"
     },
     {
       "name": "part-5.webm",
       "section": "Opt-Out Process + Close",
       "video_id": "f73284e25f1a259c8658c8a65f19f3e5",
-      "seconds": null,
+      "seconds": 213.42,
       "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/f73284e25f1a259c8658c8a65f19f3e5.webm"
     }
   ]
