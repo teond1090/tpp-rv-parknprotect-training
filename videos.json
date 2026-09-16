@@ -25,18 +25,16 @@
     {
       "name": "part-4.webm",
       "section": "Filing a Claim",
-      "video_id": "e82ad8b4a04d78192c3533279d2ca1f2",
+      "video_id": "63d780e9f99cebf95bb67d2e489dde41",
       "seconds": null,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/e82ad8b4a04d78192c3533279d2ca1f2.webm",
-      "status": "failed: AVATAR_IV_VIDEO_GENERATION_OUT_OF_CREDIT \u2014 needs a re-render once credits allow"
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/63d780e9f99cebf95bb67d2e489dde41.webm"
     },
     {
       "name": "part-5.webm",
       "section": "Opt-Out Process + Close",
-      "video_id": "908adc52c9f216512d443323bf8ee824",
+      "video_id": "f73284e25f1a259c8658c8a65f19f3e5",
       "seconds": null,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/908adc52c9f216512d443323bf8ee824.webm",
-      "status": "failed: AVATAR_IV_VIDEO_GENERATION_OUT_OF_CREDIT \u2014 needs a re-render once credits allow"
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/f73284e25f1a259c8658c8a65f19f3e5.webm"
     }
   ]
 }
