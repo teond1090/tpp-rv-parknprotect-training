@@ -1,78 +1,92 @@
 {
-  "seconds": 615.14,
-  "crf": 23,
-  "bytes": 88486135,
+  "seconds": 746.92,
+  "crf": 25,
+  "bytes": 91217452,
   "voice_polish": false,
   "sections": [
     {
-      "part": "part-1.mp4",
+      "part": "part-1-tail.mp4",
       "kind": "section",
       "start": 0.0,
-      "seconds": 100.2,
+      "seconds": 105.47,
       "gate": null
     },
     {
       "part": "check-1.mp4",
       "kind": "bumper",
-      "start": 99.95,
+      "start": 105.22,
       "seconds": 2.4,
-      "gate": 101.15
+      "gate": 106.42
     },
     {
-      "part": "part-2.mp4",
+      "part": "part-2-tail.mp4",
       "kind": "section",
-      "start": 101.85,
-      "seconds": 77.0,
+      "start": 107.12,
+      "seconds": 76.76,
       "gate": null
     },
     {
       "part": "check-2.mp4",
       "kind": "bumper",
-      "start": 178.35,
+      "start": 183.38,
       "seconds": 2.4,
-      "gate": 179.55
+      "gate": 184.58
     },
     {
-      "part": "part-3.mp4",
+      "part": "part-2b-tail.mp4",
       "kind": "section",
-      "start": 180.25,
-      "seconds": 94.8,
+      "start": 185.28,
+      "seconds": 113.4,
       "gate": null
     },
     {
       "part": "check-3.mp4",
       "kind": "bumper",
-      "start": 274.55,
+      "start": 298.18,
       "seconds": 2.4,
-      "gate": 275.75
+      "gate": 299.38
     },
     {
-      "part": "part-4.mp4",
+      "part": "part-3-tail.mp4",
       "kind": "section",
-      "start": 276.45,
-      "seconds": 125.8,
+      "start": 300.08,
+      "seconds": 97.79,
       "gate": null
     },
     {
       "part": "check-4.mp4",
       "kind": "bumper",
-      "start": 401.75,
+      "start": 397.37,
       "seconds": 2.4,
-      "gate": 402.95
+      "gate": 398.57
     },
     {
-      "part": "part-5.mp4",
+      "part": "part-4-tail.mp4",
       "kind": "section",
-      "start": 403.65,
-      "seconds": 209.84,
+      "start": 399.27,
+      "seconds": 129.36,
       "gate": null
     },
     {
       "part": "check-5.mp4",
       "kind": "bumper",
-      "start": 612.99,
+      "start": 528.13,
       "seconds": 2.4,
-      "gate": 614.19
+      "gate": 529.33
+    },
+    {
+      "part": "part-5-tail.mp4",
+      "kind": "section",
+      "start": 530.03,
+      "seconds": 215.24,
+      "gate": null
+    },
+    {
+      "part": "check-6.mp4",
+      "kind": "bumper",
+      "start": 744.77,
+      "seconds": 2.4,
+      "gate": 745.97
     }
   ]
 }
