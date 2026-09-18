@@ -222,7 +222,7 @@ plainly at the counter is so much easier than explaining it afterwards.
 Second — the exclusion list. Some units should never get an opt-out notice
 at all: tenants who've been grandfathered in, company units, and charity
 units. Those go on an exclusion list, and once a tenant is on it they're
-never sent an opt-out notification — no notice, no ten-day clock, no
+never sent an opt-out notification — no notice, no ten-business-day clock, no
 automatic enrollment. Setting it up is one email to Teon Delacruz with the
 list of tenants to exclude. Do it before launch, so nobody hears from us
 who shouldn't.
