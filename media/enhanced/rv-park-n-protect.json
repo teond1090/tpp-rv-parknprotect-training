@@ -1,92 +1,92 @@
 {
-  "seconds": 746.92,
+  "seconds": 747.44,
   "crf": 25,
-  "bytes": 87968353,
+  "bytes": 88547780,
   "voice_polish": false,
   "sections": [
     {
       "part": "part-1-tail.mp4",
       "kind": "section",
       "start": 0.0,
-      "seconds": 105.47,
+      "seconds": 103.0,
       "gate": null
     },
     {
       "part": "check-1.mp4",
       "kind": "bumper",
-      "start": 105.22,
+      "start": 102.75,
       "seconds": 2.4,
-      "gate": 106.42
+      "gate": 103.95
     },
     {
       "part": "part-2-tail.mp4",
       "kind": "section",
-      "start": 107.12,
-      "seconds": 76.76,
+      "start": 104.65,
+      "seconds": 74.83,
       "gate": null
     },
     {
       "part": "check-2.mp4",
       "kind": "bumper",
-      "start": 183.38,
+      "start": 178.98,
       "seconds": 2.4,
-      "gate": 184.58
+      "gate": 180.18
     },
     {
       "part": "part-2b-tail.mp4",
       "kind": "section",
-      "start": 185.28,
+      "start": 180.88,
       "seconds": 113.4,
       "gate": null
     },
     {
       "part": "check-3.mp4",
       "kind": "bumper",
-      "start": 298.18,
+      "start": 293.78,
       "seconds": 2.4,
-      "gate": 299.38
+      "gate": 294.98
     },
     {
       "part": "part-3-tail.mp4",
       "kind": "section",
-      "start": 300.08,
+      "start": 295.68,
       "seconds": 97.79,
       "gate": null
     },
     {
       "part": "check-4.mp4",
       "kind": "bumper",
-      "start": 397.37,
+      "start": 392.97,
       "seconds": 2.4,
-      "gate": 398.57
+      "gate": 394.17
     },
     {
       "part": "part-4-tail.mp4",
       "kind": "section",
-      "start": 399.27,
+      "start": 394.87,
       "seconds": 129.36,
       "gate": null
     },
     {
       "part": "check-5.mp4",
       "kind": "bumper",
-      "start": 528.13,
+      "start": 523.73,
       "seconds": 2.4,
-      "gate": 529.33
+      "gate": 524.93
     },
     {
       "part": "part-5-tail.mp4",
       "kind": "section",
-      "start": 530.03,
-      "seconds": 215.24,
+      "start": 525.63,
+      "seconds": 220.16,
       "gate": null
     },
     {
       "part": "check-6.mp4",
       "kind": "bumper",
-      "start": 744.77,
+      "start": 745.29,
       "seconds": 2.4,
-      "gate": 745.97
+      "gate": 746.49
     }
   ]
 }
