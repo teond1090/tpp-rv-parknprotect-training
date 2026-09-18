@@ -1,19 +1,19 @@
 {
-  "note": "Source renders for this course \u2014 presenter-style delivery: deliberate gestures toward the slide, hands settling between points. fetch-videos.yml pulls these into media/ on demand.",
+  "note": "Source renders for this course — presenter-style delivery: deliberate gestures toward the slide, hands settling between points. fetch-videos.yml pulls these into media/ on demand.",
   "files": [
     {
       "name": "part-1.webm",
       "section": "Welcome + Why This Program Exists",
-      "video_id": "b07d679d30f3d5489d48b800f09dcbd4",
-      "seconds": 103.654,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/b07d679d30f3d5489d48b800f09dcbd4.webm"
+      "video_id": "0137933732e3896f70e4849dcc93d23f",
+      "seconds": 101.198,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/0137933732e3896f70e4849dcc93d23f.webm"
     },
     {
       "name": "part-2.webm",
       "section": "Plans & Presenting",
-      "video_id": "e336a0abbc90b50dd2afdc360b786387",
-      "seconds": null,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/e336a0abbc90b50dd2afdc360b786387.webm"
+      "video_id": "42f5c1042ce822e0f9bd63c2e1b8d687",
+      "seconds": 73.0122,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/42f5c1042ce822e0f9bd63c2e1b8d687.webm"
     },
     {
       "name": "part-2b.webm",
@@ -39,9 +39,9 @@
     {
       "name": "part-5.webm",
       "section": "Opt-Out Process + Close",
-      "video_id": "f73284e25f1a259c8658c8a65f19f3e5",
-      "seconds": 213.42,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/f73284e25f1a259c8658c8a65f19f3e5.webm"
+      "video_id": "f8e7b6fe410472a16fd0bceda593c031",
+      "seconds": 218.358,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/f8e7b6fe410472a16fd0bceda593c031.webm"
     }
   ]
 }
