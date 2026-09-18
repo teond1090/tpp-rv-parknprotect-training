@@ -44,10 +44,10 @@ saves them money every month, sure. But then someone clips their trailer
 on-site in January, and suddenly a minor accident is a completely
 out-of-pocket expense. That's the moment this plan exists for.
 
-And here's a piece tenants absolutely love: contents coverage starts at
-three hundred fifty dollars, and it *travels*. On-site and off-site. So if
-they take the camper out for the weekend and something's stolen while
-they're away — still covered. Auto policies almost never do that.
+And here's a piece tenants absolutely love: contents coverage is half the
+protection limit, and it *travels*. On-site and off-site. So if they take
+the camper out for the weekend and something's stolen while they're away —
+still covered. Auto policies almost never do that.
 
 One more crowd-pleaser: the second vehicle. If a tenant drives their car to
 your facility, takes the RV out, and leaves the car in the space? That car
@@ -61,16 +61,16 @@ what that section is for. No extra fee, no separate plan.
 Let's talk tiers — and how to present them like a pro.
 
 The example levels are one thousand, fifteen hundred, and twenty-five
-hundred dollars, with contents coverage from three hundred fifty. And just
-like every TPP program — those are examples, not a fixed rate card.
+hundred dollars. And just like every TPP program — those are examples, not
+a fixed rate card.
 Coverage levels and pricing are flexible, and we can accommodate most
 customer needs and requests. Something different? Just ask.
 
 Now here's the pitch that sells itself. A tenant tells you their auto
-deductible is about a thousand dollars. You tell them: for around thirteen
+deductible is about a thousand dollars. You tell them: for around twelve
 dollars a month, this plan covers a thousand dollars of damage. Which
 means — when something happens, the plan effectively pays their deductible
-for them. Thirteen dollars a month to never eat a thousand-dollar
+for them. Twelve dollars a month to never eat a thousand-dollar
 deductible. That's the whole conversation!
 
 And when you offer it, ask *which*, not *whether*. "Would you like a
