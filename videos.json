@@ -19,8 +19,9 @@
       "name": "part-2b.webm",
       "section": "The Addendum",
       "video_id": "1d70825c381240f2f0421f49962ed848",
-      "seconds": null,
-      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/1d70825c381240f2f0421f49962ed848.webm"
+      "seconds": 103.66,
+      "url": "https://resource2.heygen.ai/aws_pacific/avatar_tmp/0fc786e7689248149b7af249dff7f69a/1d70825c381240f2f0421f49962ed848.webm",
+      "edited": "Two cuts from the HeyGen render so the licence plate is no longer presented as required: 'every vehicle and license plates in that space' now reads 'every vehicle in that space' (11.18-12.30s), and 'Write the plates down. That is what claims are validated against, and it's the line most often left blank.' is gone (14.52-21.36s). fetch-videos.yml skips edited files, so re-fetching cannot restore either line."
     },
     {
       "name": "part-3.webm",

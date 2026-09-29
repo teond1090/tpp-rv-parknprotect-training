@@ -33,7 +33,9 @@ jobs:
               fail=1
             fi
             echo "::endgroup::"
-          done < <(jq -r '.files[] | "\(.name) \(.url)"' videos.json)
+          # a file marked "edited" was changed after rendering; fetching it
+          # again would undo the edit, so it is left as committed
+          done < <(jq -r '.files[] | select(.edited == null) | "\(.name) \(.url)"' videos.json)
           echo "--- downloaded ---"
           ls -la media/ || true
           exit $fail
